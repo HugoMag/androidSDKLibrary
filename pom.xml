@@ -10,7 +10,6 @@
   <groupId>com.helppier.helppiersdk</groupId>
   <artifactId>helppiersdk</artifactId>
   <version>0.0.12</version>
-  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>androidx.appcompat</groupId>
