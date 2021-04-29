@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.helppier.helppiersdk</groupId>
   <artifactId>helppiersdk</artifactId>
-  <version>0.0.13</version>
+  <version>0.0.14</version>
   <dependencies>
     <dependency>
       <groupId>com.squareup.okhttp3</groupId>
